@@ -1,3 +1,23 @@
+Maintenance team request view
+![requests](https://github.com/brownie1234/real_estate_app/assets/92711690/8a41b24a-d49a-4443-b13a-6e91d5b265e9)
+
+search for specifc request
+![search_request](https://github.com/brownie1234/real_estate_app/assets/92711690/e28c99b3-5c67-464c-b3ad-16b5d1c67ff8)
+
+tenant submitting request
+![tenant_request](https://github.com/brownie1234/real_estate_app/assets/92711690/3131d748-36e7-4869-9e7b-a151e76ee6c2)
+
+
+maanger with tenants
+
+![manager](https://github.com/brownie1234/real_estate_app/assets/92711690/865ac4a8-1cef-4550-9d06-76b7e09068a5)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
